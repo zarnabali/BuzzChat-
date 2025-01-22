@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539026808165",
+    "project_id": "buzzchat-fabc2",
+    "storage_bucket": "buzzchat-fabc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539026808165:android:4abab24dc0d105d6e6158c",
+        "android_client_info": {
+          "package_name": "com.ea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNaBsIM__HoRtVTMciCX9AolgvfgNrrNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
